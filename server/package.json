@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Online Code Editor Server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PalashCoder/SnapCode.git"
+  },
+  "keywords": [
+    "IDE"
+  ],
+  "author": "Palash Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PalashCoder/SnapCode/issues"
+  },
+  "homepage": "https://github.com/PalashCoder/SnapCode#readme"
+}
